@@ -1,0 +1,2 @@
+timestamp,image_name,satellite,sensor,date,overall_score,quality_level,iso_score,region,land_cover,season,ml_rmse,ml_mae,ml_r2,ml_runtime_sec
+2026-09-15T10:35:46,LC08_L2SP_027031_20260531_20260605_02_T1_QA_PIXEL.TIF,Landsat-8,OLI/TIRS,2026-05-31 00:00,66.2,Moderate,0.891,,Agriculture,Select Season,0.1444,0.1184,0.5167,1576.741
